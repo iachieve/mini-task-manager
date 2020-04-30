@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61c56a11932b63a22719913dcb4ecda3",
+    "revision": "196c05c20b343727cfe9e85a46dd597d",
     "url": "/mini-task-manager/index.html"
   },
   {
-    "revision": "b9470a1120cf9d2fc386",
+    "revision": "7762c067bd7806dcf304",
     "url": "/mini-task-manager/static/css/main.8eb78f1c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mini-task-manager/static/js/2.deaedf9d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b9470a1120cf9d2fc386",
-    "url": "/mini-task-manager/static/js/main.d2728f99.chunk.js"
+    "revision": "7762c067bd7806dcf304",
+    "url": "/mini-task-manager/static/js/main.7c485dbe.chunk.js"
   },
   {
     "revision": "5942c372dea80a38277d",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mini-task-manager/static/css/main.8eb78f1c.chunk.css",
-    "main.js": "/mini-task-manager/static/js/main.d2728f99.chunk.js",
-    "main.js.map": "/mini-task-manager/static/js/main.d2728f99.chunk.js.map",
+    "main.js": "/mini-task-manager/static/js/main.7c485dbe.chunk.js",
+    "main.js.map": "/mini-task-manager/static/js/main.7c485dbe.chunk.js.map",
     "runtime-main.js": "/mini-task-manager/static/js/runtime-main.07dc0fee.js",
     "runtime-main.js.map": "/mini-task-manager/static/js/runtime-main.07dc0fee.js.map",
     "static/js/2.deaedf9d.chunk.js": "/mini-task-manager/static/js/2.deaedf9d.chunk.js",
     "static/js/2.deaedf9d.chunk.js.map": "/mini-task-manager/static/js/2.deaedf9d.chunk.js.map",
     "index.html": "/mini-task-manager/index.html",
-    "precache-manifest.041bb8fc40d14695a4f4dd3423481ffa.js": "/mini-task-manager/precache-manifest.041bb8fc40d14695a4f4dd3423481ffa.js",
+    "precache-manifest.1d60e1c998f36042fed025ed50787dd8.js": "/mini-task-manager/precache-manifest.1d60e1c998f36042fed025ed50787dd8.js",
     "service-worker.js": "/mini-task-manager/service-worker.js",
     "static/css/main.8eb78f1c.chunk.css.map": "/mini-task-manager/static/css/main.8eb78f1c.chunk.css.map",
     "static/js/2.deaedf9d.chunk.js.LICENSE.txt": "/mini-task-manager/static/js/2.deaedf9d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.07dc0fee.js",
     "static/js/2.deaedf9d.chunk.js",
     "static/css/main.8eb78f1c.chunk.css",
-    "static/js/main.d2728f99.chunk.js"
+    "static/js/main.7c485dbe.chunk.js"
   ]
 }
